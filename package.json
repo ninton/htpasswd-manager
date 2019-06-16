@@ -1,6 +1,6 @@
 {
   "name": "htpasswd-manager",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "convert user_passwd.csv to .htpasswd and .htgroup",
   "main": "app.js",
   "scripts": {

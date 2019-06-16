@@ -7,6 +7,9 @@ htpasswd-manager - csvファイルを .htpasswdファイル .htgroupファイル
 $ npm install -g htpasswd-manager
 ```
 
+## 必要なもの
+
+* htpasswdコマンド - 内部からhtpasswdコマンドを呼んでいます。
 
 ## 使い方
 
