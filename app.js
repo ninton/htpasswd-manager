@@ -1,3 +1,3 @@
 "use strict";
-console.info('Hello');
+console.info('htpasswd-manager');
 //# sourceMappingURL=app.js.map

@@ -42,5 +42,7 @@ export default class HtgroupManager {
     user_arr.forEach((user:UserEntity) => {
       groupModel.apply(user);
     });
+
+    groupModel.write(this.args.htgroup_path);
   }
 }

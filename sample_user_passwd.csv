@@ -1,4 +1,4 @@
 username,password,groups,is_deleted,comment
-taro,1234,,1,deleted on 2019-06-16, by webmaster
+taro,1234,,1,deleted on 2019-06-16 by webmaster
 jiro,1234,"staff,webmaster",,
 saburo,1234,webmaster,,
