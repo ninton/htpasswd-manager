@@ -1,0 +1,4 @@
+username,password,groups,is_deleted,comment
+taro,1234,,,
+jiro,1234,"staff,webmaster",,
+saburo,1234,webmaster,,
