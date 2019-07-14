@@ -2,3 +2,5 @@ node_modules/
 typings/
 tmp/.ht*
 *.csv#
+tests/*.js
+*.js.map
