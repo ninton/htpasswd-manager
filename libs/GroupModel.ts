@@ -1,3 +1,4 @@
+/* eslint no-unused-vars:0 */
 import fs from 'fs';
 import UserEntity from './UserEntity';
 
